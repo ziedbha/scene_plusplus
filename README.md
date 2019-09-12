@@ -1,2 +1,4 @@
 # scene_plusplus
-Enhancing Scene Understanding in AR
+Enhancing scene understanding in an Augmented Reality environment
+
+See PDF Poster for a clear explanation of the work done.
